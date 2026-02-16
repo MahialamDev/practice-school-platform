@@ -15,7 +15,7 @@ const Navbar = () => {
         <li>
           <a>Parent</a>
           <ul className="p-2">
-            <li><a>Submenu 1</a></li>
+            <li><a>aboutPage</a></li>
             <li><a>Submenu 2</a></li>
           </ul>
         </li>
